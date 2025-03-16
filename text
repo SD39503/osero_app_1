@@ -1,0 +1,4 @@
+#以下をターミナルに打ち込みURLを作成
+set FLASK_APP=app.py
+set FLASK_DEBUG=1
+flask run
