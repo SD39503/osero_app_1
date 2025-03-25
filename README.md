@@ -4,19 +4,18 @@
 
 **デモ動画** <br>
 
-https://github.com/user-attachments/assets/ba29f7ca-22ac-4b76-a6f3-a0de95aa2b3f
+[デモ動画を見る](https://github.com/user-attachments/assets/ba29f7ca-22ac-4b76-a6f3-a0de95aa2b3f)
 
 **環境** <br>
-必要条件 <br>
-Python 3.8 以上 <br>
+### 必要条件 <br>
+-Python 3.8 以上 <br>
+-Flask インストール済み <br>
 
-Flask インストール済み <br>
-
- サーバー起動 <br>
+### サーバー起動 <br>
 python app.py <br>
-デフォルトURL: http://127.0.0.1:5000 <br>
+デフォルトURL: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-**ルール** <br>　　
+**ルール** 　
 1. **黒 (●)** が先手で始めます。
 2. 有効なマス目をクリックして石を置きます。
     - 無効な手を選択すると、ポップアップで警告文が表示されます。
@@ -28,6 +27,6 @@ python app.py <br>
 現段階のAI側の手は、ルール上有効な手の中からランダムで場所を選択しています。 <br>　　
 今後はAIの手を強化する方法をリサーチしていきたいと考えております。 <br>　　
 
-
-
+**ライセンス**<br>　
+このプロジェクトは MIT ライセンスの下で提供されています。
 
